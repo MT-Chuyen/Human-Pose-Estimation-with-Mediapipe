@@ -1,7 +1,7 @@
 # Human-Pose-Estimation-with-Mediapipe
 Human Pose Estimation with Mediapipe
 
-Authors: Assoc. Prof. Kien-Phan Nguyen, Chuyen-Tat Mai, Ly-Khanh Trinh, Trang-Huyen Thi Ong
+Authors: Assoc. Prof. Phan-Kien Nguyen, Tat-Chuyen Mai, Khanh-Ly Trinh, Huyen-Trang Ong Thi
 
 Description: A research project to extract pose and measure angle in squat movement by phone based on 2D perspective, providing simple squat tracking solution for users
 
